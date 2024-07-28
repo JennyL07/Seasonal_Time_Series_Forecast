@@ -1,4 +1,4 @@
-Comparison between different methods for forecasting seasonal time series data.
+Comparison between different methods for forecasting synthetic seasonal time series data.
 Methods used here:
 
 (1). Moving average
